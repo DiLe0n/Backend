@@ -10,7 +10,8 @@ Basic server in .js using xampp and mysql
 3.- Open xampp and run Apache and MySQL, next run the server with
   node servidor.js
 
-4.- Try it with this commands
+4.- Try it with this urls in browser
+
   http://localhost:3000/users?action=create&nombre=John&usuario=jdoe&contrasena=123456
 
   http://localhost:3000/users?action=read

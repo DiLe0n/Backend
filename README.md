@@ -1,4 +1,4 @@
-Basic server in .js using xampp and mysql
+Basic API in .js using xampp and mysql
 
 1.- Download xampp and node.js in the following links
 
